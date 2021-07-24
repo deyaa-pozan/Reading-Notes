@@ -47,8 +47,8 @@
 | num task |  task   |    url    |
 | :---     | :----:  |      ---: |
 |   1      |Read: 01 |[class-301-01.md](class-301-01)   |
-|   2      |Read: 02 |[class-02.md](class-02)|
-|   3      |Read: 03 |[Read-03.md](Read-03)|
+|   2      |Read: 02 |[class-301-02.md](class-301-02)|
+|   3      |Read: 03 |[class-301-03.md](class-301-03)|
 |   4      |Read: 04 |[Read-04.md](Read-04) |
 |   5      |Read: 05 |[Read-05.md](Read-05)|
 |   6      |Read: 06 |[Read-06.md](Read-06)|
