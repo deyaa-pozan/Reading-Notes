@@ -51,13 +51,13 @@
 |   3      |Read: 03 |[class-301-03.md](class-301-03)|
 |   4      |Read: 04 |[class-301-04.md](class-301-04) |
 |   5      |Read: 05 |[class-301-05.md](class-301-05)|
-|   6      |Read: 06 |[Read-06.md](Read-06)|
-|   7      |Read: 07 |[Read-07.md](Read-07)|
-|   8      |Read: 08 |[Read-08.md](Read-08)|
+|   6      |Read: 06 |[class-301-06.md](class-301-06)|
+|   7      |Read: 07 |[class-301-07.md](class-301-07)|
+|   8      |Read: 08 |[class-301-08.md](class-301-08)|
 |   9      |Read: 09 |[class-301-09.md](class-301-09)|
-|   10     |Read: 10 |[Read-10.md](Read-10)|
-|   11     |Read: 11 |[Read-11.md](Read-11)|
-|   12     |Read: 12 |[Read-12.md](Read-12)|
+|   10     |Read: 10 |[class-301-10.md](class-301-10)|
+|   11     |Read: 11 |[class-301-11.md](class-301-11)|
+|   12     |Read: 12 |[class-301-12.md](class-301-12)|
 |   13     |Read: 13 |[Read-13.md](Read-13)|
 |   14     |Read: 14 |[Read-14a.md](Read-14a)|
 |   15     |Read: 15|[Read-14b.md](Read-14b)|
