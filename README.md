@@ -62,3 +62,21 @@
 |   13     |Read: 13 |[class-301-13.md](class-301-13|
 |   14     |Read: 14 |[Read-14a.md](Read-14a)|
 |   15     |Read: 15|[Read-14b.md](Read-14b)|
+
+## Code 401 - Advanced Software Development
+
+
+| num task |  task   |    url    |
+| :---     | :----:  |      ---: |
+|   1      |Read: 01 |[class-401-01.md](class-401-01)|
+|   2      |Read: 02 |[class-401-02.md](class-401-02)|
+|   3      |Read: 03 |[class-401-03.md](class-401-03)|
+|   4      |Read: 04 |[class-401-04.md](class-401-04)|
+|   5      |Read: 05 |[class-401-05.md](class-401-05)|
+|   6      |Read: 06 |[class-401-06.md](class-401-06)|
+|   7      |Read: 07 |[class-401-07.md](class-401-07)|
+|   8      |Read: 08 |[class-401-08.md](class-401-08)|
+|   9      |Read: 09 |[class-401-09.md](class-401-09)|
+|   10     |Read: 10 |[class-401-10.md](class-401-10)|
+|   11     |Read: 11 |[class-401-11.md](class-401-11)|
+|   12     |Read: 12 |[class-401-12.md](class-401-12)|
